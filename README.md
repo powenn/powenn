@@ -13,7 +13,7 @@
 * Email: powen0966091716@gmail.com
 
 ### Others  
-* YouTube channel: [Powen蕭博文](https://youtube.com/channel/UC10pdtvFTDo60X-aXvbNy7w)
+* YouTube channel: [蕭博文powen](https://youtube.com/channel/UC10pdtvFTDo60X-aXvbNy7w)
 
 ### My Work
 | Projects                                                  |                                                                                |
