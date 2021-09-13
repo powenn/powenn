@@ -19,6 +19,7 @@
 | [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)          | my repo for jailbreak user |                                   |
 
 ![powen's GitHub stats](https://github-readme-stats.vercel.app/api?username=powenn&show_icons=true&theme=tokyonight&count_private=true)
+![powen's Commit Snake](https://raw.githubusercontent.com/powenn/powenn/snake/github-contribution-grid-snake.gif)
 
 ### Template from elihwyma
 [elihwyma'profile](https://github.com/elihwyma/elihwyma)
