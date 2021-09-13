@@ -14,6 +14,7 @@
 
 ### Others  
 * YouTube channel: [蕭博文powen](https://youtube.com/channel/UC10pdtvFTDo60X-aXvbNy7w)
+* PayPal: [蕭博文powen00hsiao](https://www.paypal.com/paypalme/powen00hsiao)
 
 ### My Work
 | Projects                                                  |                                                                                |
