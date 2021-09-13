@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**powenn/powenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 
+- student
+- jailbreak user
+- pinephone user
+- pinera1n author
+- providing some localization support for chinese traditional
+- respring animation tweaks
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+* Twitter: [powen](https://twitter.com/powen00hsiao)
+* Email: powen0966091716@gmail.com
+
+### My Work
+| Projects                                                  |                                                                                |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------|
+| [pinera1n](https://github.com/powenn/pinera1n) | using checkra1n with GUI on linux phone like pinephone                                              |
+| [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)          | my repo for jailbreak user |                                   |
+
+![powen's GitHub stats](https://github-readme-stats.vercel.app/api?username=powenn&show_icons=true&theme=tokyonight&count_private=true)
+![powen's Commit Snake](https://raw.githubusercontent.com/powenn/powenn/snake/github-contribution-grid-snake.gif)
+
+### Template from elihwyma
+[elihwyma'profile](https://github.com/elihwyma/elihwyma)
