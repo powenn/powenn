@@ -26,9 +26,9 @@
 
 ![powen's Commit Snake](https://github.com/powenn/powenn/blob/output/github-contribution-grid-snake.gif)
 
-![gif][1] ![gif][1]
+![gif][1] 
 
 #### Template from elihwyma
 
 
-[1]:https://github.com/powenn/powenn/blob/main/photos/03.gif
+[1]:https://github.com/powenn/powenn/blob/main/photos/02.gif
