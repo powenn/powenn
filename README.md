@@ -31,4 +31,4 @@
 #### Template from elihwyma
 
 
-[1]:https://github.com/powenn/powenn/blob/main/photos/01.gif
+[1]:https://github.com/powenn/powenn/blob/main/photos/02.gif
