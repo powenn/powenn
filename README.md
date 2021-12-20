@@ -24,6 +24,7 @@
 | [pinera1n](https://github.com/powenn/pinera1n) | using checkra1n with GUI on linux phone like pinephone                                              |
 | [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)          | my repo for jailbreak user |                                   |
 | [Glodroid MacOS shellscript](https://github.com/powenn/glodroid_manifest/tree/master/MacOS%20instruction)         | just double click to start flashing |
+| [戴铭的 Swift 小册子 shell script and workflow ](https://github.com/powenn/SwiftPamphletApp)         | just double click to compile |
 
 ![powen's Commit Snake](https://github.com/powenn/powenn/blob/output/github-contribution-grid-snake.gif)
 
