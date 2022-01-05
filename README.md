@@ -26,6 +26,7 @@
 | [Glodroid MacOS shellscript](https://github.com/powenn/glodroid_manifest/tree/master/MacOS%20instruction)         | just double click to start flashing |
 | [戴铭的 Swift 小册子 compile shell script and workflow ](https://github.com/powenn/SwiftPamphletApp)         | just double click to compile |
 | [FishUpgrade-MacOS摸魚模擬器繁體中文版,compile shell script and workflow](https://github.com/powenn/FishUpgrade)         | just double click to compile |
+| [AltServer-Linux-ShellScript](https://github.com/powenn/AltServer-Linux-ShellScript)         | make easier to use AltServer-Linux |
 
 ![powen's Commit Snake](https://github.com/powenn/powenn/blob/output/github-contribution-grid-snake.gif)
 
