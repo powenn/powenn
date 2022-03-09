@@ -1,11 +1,8 @@
 
 ### About me 
 - student
-- jailbreak user
+- jailbreak iphone user
 - pinephone user
-- pinera1n author
-- providing some localization support for chinese traditional
-- respring animation tweaks
 
 ![powen's GitHub stats](https://github-readme-stats.vercel.app/api?username=powenn&show_icons=true&theme=tokyonight&count_private=true)
 
@@ -21,12 +18,10 @@
 ### My Work
 | Projects                                                  |                                                                                |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------|
-| [pinera1n](https://github.com/powenn/pinera1n) | using checkra1n with GUI on linux phone like pinephone                                              |
-| [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)          | my repo for jailbreak user |                                   |
 | [Glodroid MacOS shellscript](https://github.com/powenn/glodroid_manifest/tree/master/MacOS%20instruction)         | just double click to start flashing |
 | [戴铭的 Swift 小册子 compile shell script and workflow ](https://github.com/powenn/SwiftPamphletApp)         | just double click to compile |
-| [FishUpgrade-MacOS摸魚模擬器繁體中文版,compile shell script and workflow](https://github.com/powenn/FishUpgrade)         | just double click to compile |
 | [AltServer-Linux-ShellScript](https://github.com/powenn/AltServer-Linux-ShellScript)         | make easier to use AltServer-Linux |
+| [AltServer-LinuxGUI](https://github.com/powenn/AltServer-LinuxGUI)         | make easier to use AltServer-Linux |
 
 ![powen's Commit Snake](https://github.com/powenn/powenn/blob/output/github-contribution-grid-snake.gif)
 
