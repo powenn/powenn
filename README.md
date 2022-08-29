@@ -5,7 +5,9 @@ A student interested in iOS jaillbreak and software development
 
 learning programming and iOS app development
 
-![CodeWars Badge](https://www.codewars.com/users/powenn/badges/large?logo=true)
+<a href="https://www.codewars.com/users/powenn" >
+  <img src="https://www.codewars.com/users/powenn/badges/large?logo=true"/>
+</a>
 
 ![powen's GitHub stats](https://github-readme-stats.vercel.app/api?username=powenn&show_icons=true&theme=tokyonight&count_private=true)
 
