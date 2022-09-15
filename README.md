@@ -5,6 +5,8 @@ A student interested in iOS jaillbreak and software development
 
 learning programming and iOS app development
 
+I am training Swift,Python,Dart and Java
+
 <a href="https://www.codewars.com/users/powenn" >
   <img src="https://www.codewars.com/users/powenn/badges/large?logo=true"/>
 </a>
