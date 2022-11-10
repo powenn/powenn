@@ -26,7 +26,7 @@ I am training Swift,Python,Dart and Java
 |-----------------------------------------------------------|--------------------------------------------------------------------------------|
 | [permasigneriOS](https://github.com/powenn/permasigneriOS)         | Sign ipa permanetly on iOS |
 | [AltServer-Linux-ShellScript](https://github.com/powenn/AltServer-Linux-ShellScript)         | make easier to use AltServer-Linux |
-| [AltServer-LinuxGUI](https://github.com/powenn/AltServer-LinuxGUI)         | make easier to use AltServer-Linux |
+| [ModMyIPA](https://github.com/powenn/ModMyIPA)         | An app to modify ipa files |
 
 ![powen's Commit Snake](https://github.com/powenn/powenn/blob/output/github-contribution-grid-snake.gif)
 
