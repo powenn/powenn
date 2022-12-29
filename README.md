@@ -13,6 +13,10 @@ I am training Swift,Python,Dart and Java
 
 ![powen's GitHub stats](https://github-readme-stats.vercel.app/api?username=powenn&show_icons=true&theme=tokyonight&count_private=true)
 
+<a href="https://www.credly.com/badges/38c0eed0-d6d5-422d-a2cc-18b44d0df509/public_url" >
+  <img src="https://images.credly.com/size/220x220/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png"/>
+</a>
+
 ### Contact Me
 * Twitter: [powen00hsiao](https://twitter.com/powen00hsiao)
 * Email: powen0966091716@gmail.com
