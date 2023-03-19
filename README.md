@@ -1,9 +1,9 @@
 
 ### About me 
 
-A student interested in iOS jaillbreak and software development
+A student interested in penetration testing and software development
 
-learning programming and iOS app development
+learning penetration testing, programming and software development
 
 I am training Java, C#, Python, Swift and Dart
 
