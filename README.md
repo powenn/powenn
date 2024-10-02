@@ -17,8 +17,12 @@ I am training Java, C#, Python, Swift and Dart
   <img src="https://images.credly.com/size/680x680/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" height="100"/>
 </a>
 
-<a href="https://certs.ine.com/a639fb17-c205-408b-a3cd-a213049621ea#gs.80ja3q" >
-  <img src="https://templates.images.credential.net/16947192901898719699151540862834.png" height="100"/>
+<a href="https://certs.ine.com/a639fb17-c205-408b-a3cd-a213049621ea" alt="eJPT" >
+  <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=102413772" height="100"/>
+</a>
+
+<a href="https://certs.ine.com/21339d94-af3c-405e-a4aa-61800ecdafd6" alt="eWPT" >
+  <img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=117227531" height="100"/>
 </a>
 
 ### Contact Me
