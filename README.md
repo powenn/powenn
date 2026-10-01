@@ -5,7 +5,6 @@ A student interested in penetration testing and software development
 
 learning penetration testing, programming and software development
 
-I am training Java, C#, Python, Swift and Dart
 
 <a href="https://www.codewars.com/users/powenn" >
   <img src="https://www.codewars.com/users/powenn/badges/large?logo=true"/>
